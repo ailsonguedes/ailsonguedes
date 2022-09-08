@@ -4,7 +4,7 @@
 
 Estudante do curso de Análise e Desenvolvimento de Sistemas, apaixonado por música e tecnologia!
 
-![Ailson GitHub stats](https://github-readme-stats.vercel.app/api?username=ailsonguedes&show_icons=true&theme=cobalt) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ailsonguedes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Ailson GitHub stats](https://github-readme-stats.vercel.app/api?username=ailsonguedes&show_icons=true&theme=cobalt) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ailsonguedes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <div style="display: inline_block"><br/>
