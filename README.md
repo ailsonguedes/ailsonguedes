@@ -1,16 +1,22 @@
-### Hi there 👋
+### Olá! Eu sou o Ailson Guedes! ✋
 
-<!--
-**ailsonguedes/ailsonguedes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### _________________________________________________________________________
 
-Here are some ideas to get you started:
+Estudate do curso de Análise e Desenvolvimento de Sistemas, apaixonado por música e tecnologia!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Ailson GitHub stats](https://github-readme-stats.vercel.app/api?username=ailsonguedes&show_icons=true&theme=cobalt)
+
+### _________________________________________________________________________
+
+<div style="display: inline_block"><br/>
+    <img alt="Python" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</div>
+
+### _________________________________________________________________________
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ailson-guedes-059795149/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ailsong)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ailson_guedes/)
+[![G-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ailsonsixseven@gmail.com)
+[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:ailsonlfonseca@outlook.com)
+
