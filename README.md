@@ -2,7 +2,7 @@
 
 
 
-Estudate do curso de Análise e Desenvolvimento de Sistemas, apaixonado por música e tecnologia!
+Estudante do curso de Análise e Desenvolvimento de Sistemas, apaixonado por música e tecnologia!
 
 ![Ailson GitHub stats](https://github-readme-stats.vercel.app/api?username=ailsonguedes&show_icons=true&theme=cobalt)
 
