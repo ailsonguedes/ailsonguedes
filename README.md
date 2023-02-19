@@ -1,20 +1,22 @@
-### Olá! Eu sou o Ailson Guedes! ✋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=306998&height=120&section=header"/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFD43B&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Ailson+Guedes;I'm+25+years+old;I'm+from+Brazil;I'm+Graduating+in+Systems+Analysis+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ailsonguedes&show_icons=true&count_private=true&hide_border=true&title_color=306998&icon_color=FFD43B&text_color=c9d1d9&bg_color=0d1117" alt="Ailson Guedes github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ailsonguedes&layout=compact&hide_border=true&title_color=306998&text_color=c9d1d9&bg_color=0d1117" />
+</div>
 
-Estudante do curso de Análise e Desenvolvimento de Sistemas, apaixonado por música e tecnologia!
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ailsonguedes&bg_color=0d1117&color=FFD43B&line=306998&point=FFD43B&area=true&area_color=FFD43B&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![Ailson GitHub stats](https://github-readme-stats.vercel.app/api?username=ailsonguedes&show_icons=true&theme=cobalt) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ailsonguedes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center"> 
+<a href="https://www.instagram.com/ailson_guedes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-306998?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href = "mailto:ailsonsixseven@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/ailson-guedes-059795149/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+ </div>
+    
+ ### Main skills:
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
-
-<div style="display: inline_block"><br/>
-    <img alt="Python" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-    <img alt="MySQL" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-</div><br/>
-
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ailson-guedes-059795149/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ailson_guedes/)
-[![G-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ailsonsixseven@gmail.com)
-[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:ailsonlfonseca@outlook.com)
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=306998&height=120&section=footer"/>
