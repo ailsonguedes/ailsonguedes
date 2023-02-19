@@ -17,11 +17,11 @@
  </div>
     
 ### Main skills:
-![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=FFD43B&labelColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=FFD43B&labelColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=306998&labelColor=0D1117)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=306998&labelColor=0D1117)&nbsp;
   
 ### Studying in this moment:
-![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=FFD43B&labelColor=0D1117)&nbsp;
-![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=FFD43B&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=306998&labelColor=0D1117)&nbsp;
+![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=306998&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=306998&height=120&section=footer"/>
