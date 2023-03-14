@@ -23,5 +23,6 @@
 ### Studying in this moment:
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=306998&labelColor=0D1117)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=306998&labelColor=0D1117&textColor=0D1117)&nbsp;
-
+![Jupyter](https://img.shields.io/badge/-Jupyter-0D1117?style=for-the-badge&logo=jupyter&logoColor=306998&labelColor=0D1117&textColor=0D1117)&nbsp;
+  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=306998&height=120&section=footer"/>
