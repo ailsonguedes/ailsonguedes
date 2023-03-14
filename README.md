@@ -4,7 +4,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ailsonguedes&show_icons=true&count_private=true&hide_border=true&title_color=306998&icon_color=FFD43B&text_color=c9d1d9&bg_color=0d1117" alt="Ailson Guedes github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ailsonguedes&layout=compact&hide_border=true&title_color=306998&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ailsonguedes&layout=compact&hide_border=true&title_color=306998&text_color=c9d1d9&bg_color=0d1117&hide_jupyter%20notebook=true" />
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ailsonguedes&bg_color=0d1117&color=FFD43B&line=306998&point=FFD43B&area=true&area_color=FFD43B&hide_border=true&jupyter%20notebook)](https://github.com/ashutosh00710/github-readme-activity-graph)
