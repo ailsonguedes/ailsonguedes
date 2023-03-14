@@ -9,6 +9,11 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ailsonguedes&bg_color=0d1117&color=FFD43B&line=306998&point=FFD43B&area=true&area_color=FFD43B&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<h3 align="left">Connect with me:</h3>
+
+<p align="left"> <a href="https://twitter.com/ailson_guedes" target="blank"><img src="https://img.shields.io/twitter/follow/ailson_guedes?style=social" alt="AilsonGuedes" /></a> </p>
+<p align="left">
+  
 <div align="center"> 
 <a href="https://www.instagram.com/ailson_guedes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-306998?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href = "mailto:ailsonlfonseca@hotmail.com"> <img src="https://img.shields.io/badge/-MicrosoftOutlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" target="_blank"></a>  
