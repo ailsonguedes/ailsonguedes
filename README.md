@@ -11,8 +11,15 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ailsonguedes&layout=compact&hide_border=true&title_color=306998&text_color=c9d1d9&bg_color=0d1117&hide_jupyter%20notebook=true" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ailsonguedes&bg_color=0d1117&color=FFD43B&line=306998&point=FFD43B&area=true&area_color=FFD43B&hide_border=true&jupyter%20notebook)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<h3 align="left">About me:</h3>
+<p align="left">
+I am a Student in the area of technology, attending the sixth period of the course of EAD Systems Analysis and Development, at <a href="https://ucb.catolica.edu.br/portal/" target="_blank" rel="noreferrer">Universidade Católica de Brasília</a> in Brazil since 2021.
+Native of the "Recôncavo Baiano", born and raised in the city of Maragogipe. I am a great lover of music and technology.
+</p>
+
 <!---
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ailsonguedes&bg_color=0d1117&color=FFD43B&line=306998&point=FFD43B&area=true&area_color=FFD43B&hide_border=true&jupyter%20notebook)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <h3 align="left">Connect with me:</h3>
 
 <p align="left"> <a href="https://twitter.com/ailson_guedes" target="blank"><img src="https://img.shields.io/twitter/follow/ailson_guedes?style=social" alt="AilsonGuedes" /></a> </p>
