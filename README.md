@@ -1,6 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=306998&height=120&section=header"/>
 
 <h1 align="center">Hi 👋, I'm Ailson</h1>
+<h3 align="center">Systems Analysis and Development - UCB</h3>
 
 <!---
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFD43B&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Ailson+Guedes;I'm+25+years+old;I'm+from+Brazil;I'm+Graduating+in+Systems+Analysis+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
