@@ -27,10 +27,16 @@ Native of the "Recôncavo Baiano", born and raised in the city of Maragogipe. I 
 <p align="left">
  --->
  
-<a href = "mailto:ailsonlfonseca@hotmail.com"> <img src="https://img.shields.io/badge/-MicrosoftOutlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" target="_blank"></a>  
-<a href = "mailto:ailsonsixseven@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/ailson-guedes-059795149/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
- </div>
+ 
+ <div align="center">
+  <a href="https://www.linkedin.com/in/ailson-guedes-059795149/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="28" alt="linkedin logo"  />
+  </a>
+  <a href="ailsonsixseven@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="28" alt="gmail logo"  />
+  </a>
+</div>
+
     
 ### Main skills:
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
