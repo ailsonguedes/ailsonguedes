@@ -27,8 +27,6 @@ Native of the "Recôncavo Baiano", born and raised in the city of Maragogipe. I 
 <p align="left">
  --->
  
-<div align="center"> 
-<a href="https://www.instagram.com/ailson_guedes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-306998?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href = "mailto:ailsonlfonseca@hotmail.com"> <img src="https://img.shields.io/badge/-MicrosoftOutlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" target="_blank"></a>  
 <a href = "mailto:ailsonsixseven@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/ailson-guedes-059795149/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
