@@ -33,7 +33,7 @@ I am a great lover of music and technology.
   <a href="https://www.linkedin.com/in/ailson-guedes-059795149/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="28" alt="linkedin logo"  />
   </a>
-  <a href="ailsonsixseven@gmail.com" target="_blank">
+  <a href="mailto:ailsonsixseven@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="28" alt="gmail logo"  />
   </a>
 </div>
