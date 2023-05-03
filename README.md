@@ -27,7 +27,6 @@ I am a great lover of music and technology.
 <p align="left">
  --->
  
- 
  <div align="center">
   <a href="https://www.linkedin.com/in/ailson-guedes-059795149/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="28" alt="linkedin logo"  />
@@ -36,9 +35,10 @@ I am a great lover of music and technology.
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="28" alt="gmail logo"  />
   </a>
 </div>
-    
+
 <!--- ### Main skills: --->
 ## 
+
 <div>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://docs.docker.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a>
@@ -49,6 +49,7 @@ I am a great lover of music and technology.
 <a href="https://docs.kernel.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="mysql" width="40" height="40"/> </a> 
 </div>
 
+##
 <!---
 ![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=306998&labelColor=0D1117)&nbsp;
 --->
