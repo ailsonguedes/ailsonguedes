@@ -8,7 +8,7 @@
 --->
 <div align="center">  
   <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ailsonguedes&show_icons=true&count_private=true&hide_border=true&title_color=306998&icon_color=FFD43B&text_color=c9d1d9&bg_color=0d1117" alt="Ailson Guedes github stats" /> 
-  <img width="35%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ailsonguedes&layout=compact&hide_border=true&title_color=306998&text_color=c9d1d9&bg_color=0d1117&hide_jupyter%20notebook=true" />
+  <img width="35%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ailsonguedes&layout=compact&hide_border=true&title_color=306998&text_color=c9d1d9&bg_color=0d1117&hide_jupyter%20notebook=false" />
 </div>
 
 <h3 align="left">About me:</h3>
