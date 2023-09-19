@@ -13,7 +13,7 @@
 </div>
 <h3 align="left">About me:</h3>
 <p align="left">
-I am a Student in the area of technology, attending the sixth period of the course of EAD Systems Analysis and Development, at <a href="https://ucb.catolica.edu.br/portal/" target="_blank" rel="noreferrer">Universidade Católica de Brasília</a> in Brazil since 2021.
+I am a Student in the area of technology, attending the eighth period of the course of EAD Systems Analysis and Development, at <a href="https://ucb.catolica.edu.br/portal/" target="_blank" rel="noreferrer">Universidade Católica de Brasília</a> in Brazil since 2021.
 Native of the "Recôncavo Baiano", born and raised in the city of Maragogipe. 
 I am a great lover of music and technology.
 </p>
