@@ -1,7 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=306998&height=120&section=header"/>
 
 <h1 align="center">Hi 👋, I'm Ailson</h1>
-<h3 align="center">Systems Analysis and Development - UCB</h3>
 
 <!---
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFD43B&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Ailson+Guedes;I'm+25+years+old;I'm+from+Brazil;I'm+Graduating+in+Systems+Analysis+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
@@ -13,7 +12,7 @@
 </div>
 <h3 align="left">About me:</h3>
 <p align="left">
-I am a Student in the area of technology, attending the eighth period of the course of EAD Systems Analysis and Development, at <a href="https://ucb.catolica.edu.br/portal/" target="_blank" rel="noreferrer">Universidade Católica de Brasília</a> in Brazil since 2021.
+Software Developer <a href="https://ucb.catolica.edu.br/portal/" target="_blank" rel="noreferrer">
 Native of the "Recôncavo Baiano", born and raised in the city of Maragogipe. 
 I am a great lover of music and technology.
 </p>
