@@ -12,9 +12,7 @@
 </div>
 <h3 align="left">About me:</h3>
 <p align="left">
-Software Developer <a href="https://ucb.catolica.edu.br/portal/" target="_blank" rel="noreferrer">
-Native of the "Recôncavo Baiano", born and raised in the city of Maragogipe. 
-I am a great lover of music and technology.
+  I'm a Brazilian software developer, musician, and music producer passionate about technology and innovation, always seeking knowledge and growth.
 </p>
 
 <!---
