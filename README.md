@@ -2,12 +2,10 @@
 
 #### Software Engineer by day ☼ and Musician/Producer by night ☾
 
-**Full-Stack Developer** - I am a dedicated **Pythonista** with a strong preference for modern Python and JavaScript stacks, often working with **Flask** and **FastAPI** for backend logic, and **React** for building dynamic, modern user interfaces.
-**Nosllyah** - Artist and Music Producer with **2+ million streams** on Spotify, composing and producing tracks in my home studio. I also create film scores and soundtracks for cinema.
-
-### The Druid Protocol 🌳🤖
-- The pursuit of the **Equilibrium**. A deep philosophical inquiry into the convergence of technology and the organic world.
+Full-Stack Developer - Dedicated Pythonista using Flask & FastAPI and React for building modern, dynamic applications.   
+Nosllyah - Artist & Producer with 2M+ streams on [Spotify](https://open.spotify.com/intl-pt/artist/0bzL30yrC2B9SMa1dcrRvl?si=W_47aC68Q-iMqsT64N2esQ). I compose tracks in my home studio and create film scores.
 
 - ⚙️ I use daily: `.py`, `.ts`, `.js`, `.java`, `.html`, `.css`, `.als` (Ableton Live)
-- ⭐ Interests: **Automação** e **IA**, **Engenharia de Software**, **Linux**, **NeoVim**, e **CLI**.
+- 🌳🤖 **The Druid Protocol**: Seeking the **Equilibrium** between technology and the organic world
+- ⭐ Interests: **Automation** & **AI**, **Software Engineering**, **Linux**, **NeoVim**, and **CLI** tools.
 - 💬 `ping` me about: **Python**, **Software Development**, **Music**, **Music Production** and **Philosophy**.
